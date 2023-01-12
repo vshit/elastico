@@ -1,0 +1,37 @@
+{
+    "header": [
+        {
+            "name": "Home",
+            "link": "/"
+        },
+        {
+            "name": "About",
+            "link": "/about"
+        },
+        {
+            "name": "Shows",
+            "link": "/shows"
+        },
+        {
+            "name": "People",
+            "link": "/people"
+        }
+    ],
+    "genres": [
+        {
+            "name": "Action"
+        },
+        {
+            "name": "Horror"
+        },
+        {
+            "name": "Adventure"
+        },
+        {
+            "name": "Comedy"
+        },
+        {
+            "name": "Romance"
+        }
+    ]
+}
